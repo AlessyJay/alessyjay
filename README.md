@@ -1,67 +1,84 @@
-# 👋 Hey there! I'm Tony (Peeranat Somboonsirikul)
+<h1 align="center">👋 Hey there! I'm Tony (Peeranat Somboonsirikul)</h1>
 
 Welcome to my digital corner! I'm a passionate developer with a heart for code and a mind for creative solutions. Dive in to discover my tech stack, projects, and the journey that brought me here.
 
 ---
 
-### 💻 Tech Stack
+<div align="center">
 
-- **Languages**:
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AlessyJay&data=repositories,stars,commits&theme=darkmode)](https://github.com/AlessyJay/github-widgetbox)
 
-  - **JavaScript / TypeScript** (Advanced)
-  - **C / C++** (Intermediate)
-  - **C#** (Intermediate)
-  - **Java** (Intermediate)
-  - **Python** (Beginner)
-
-- **Frameworks**:
-
-  - **Next.js** (for high-performance web applications)
-  - **React.js** (for dynamic and interactive UIs)
-  - **ASP.NET** (for powerful enterprise applications)
-  - **Django** (for robust Python web development)
-  - **Laravel** (for elegant PHP applications)
-
-- **Tools**:
-  - **Prisma** (for intuitive database management)
-  - **Tailwind CSS** (for sleek, responsive design)
-  - **Lucide React** (for scalable iconography)
-  - **Figma** (for UI/UX design)
-  - **Express.js** (for backend APIs)
-  - **Spring Boot** (for Java-based web applications)
-  - **NeonDB** (for serverless Postgres)
-  - **PostgreSQL**, **MySQL**, **MongoDB** (for relational and NoSQL databases)
-  - **Apache Cassandra**, **Redis** (for distributed databases and caching)
-
-### 🌍 Currently:
-
-I'm studying Computer Engineering with a major in Web Development at Vistula University, Warsaw, Poland 🇵🇱. I always sharpen my skills every day to bring creative solutions to life. Whether it's building an app, contributing to open-source, or learning something new, I’m always on the lookout for a challenge.
-
-### 📈 Goals:
-
-- Advance my knowledge of **Python** and make it an essential part of my toolkit.
-- Build impactful projects to refine my **JavaScript/TypeScript** skills further.
-- Contribute to open-source and collaborate on exciting projects.
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## 💻 Tech Stack
 
-Here's a glimpse into my most exciting projects so far:
+<div align="center">
+  
+  **Languages**
+  
+  [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,cs,cpp,c,java,py,bash&perline=8)](https://skillicons.dev)
+  
+  **Frameworks**
+  
+  [![My Skills](https://skillicons.dev/icons?i=next,react,laravel,django,dotnet)](https://skillicons.dev)
+  
+  **Tools & Platforms**
+  
+  [![My Skills](https://skillicons.dev/icons?i=prisma,tailwindcss,figma,express,spring,postgres,mongo,mysql,cassandra,redis,npm,bun,yarn,vscode,visualstudio,git,ps,pr&perline=6)](https://skillicons.dev)
+  
+  **DevOps & CI/CD**
+  
+  [![My Skills](https://skillicons.dev/icons?i=docker,jenkins,linux,bash,azure&perline=5)](https://skillicons.dev)
 
-- **Toolkit Web**: An internal CRM for **Micamp Solutions** built to elevate performance and usability.
-- **BlogSphere**: A blog platform with bookmark functionality and advanced state management.
-
-Check out my pinned repositories below for more!
+</div>
 
 ---
 
-### 🌱 Fun Facts
-
-- 🌏 I'm currently based in Phoenix, Arizona, USA, but I'm originally from Thailand. I move around very often, you might see me in Florianopolis, Brazil next time.
-- 🗣️ I can speak **Thai**, **English**, **Japanese**, **Polish**, **Spanish**, and **Chinese**
-- 🎓 I'm on a journey to master my **Japanese**, **Chinese** and **Spanish** as well!
+## 🌍 Currently
+🎓 I'm studying **Computer Engineering** with a major in Web Development at Vistula University, Warsaw, Poland 🇵🇱.  
+🔧 Always sharpening my skills to bring creative solutions to life, whether it's building apps, contributing to open-source, or learning something new. I'm always up for a challenge!
 
 ---
 
-Thanks for stopping by! Feel free to reach out if you're interested in collaborating, freelancing, or simply talking tech! 😊
+## 📈 Goals for 2024
+
+- 🌐 Master **Python** and integrate it into more of my projects.
+- 🚀 Deepen my expertise in **TypeScript/JavaScript** for full-stack development.
+- 🤝 Collaborate on open-source projects and expand my contributions to the community.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔧 [Toolkit Web](https://github.com/AlessyJay/Toolkit-Web)
+An internal CRM for **Micamp Solutions** built to elevate performance and usability using **Next.js**, **Prisma**, and **TailwindCSS**.
+
+### 📝 [BlogSphere](https://github.com/AlessyJay/BlogSphere)
+A blog platform with dynamic bookmark functionality, built with **Next.js**, **TypeScript**, and **Lucia Authentication**.
+
+### 🍕 [Mr. Pizza](https://github.com/AlessyJay/Mr-Pizza)
+A mobile app for a pizza shop, built with **Expo**, **NativeWind**, and **TailwindCSS**, featuring smooth animations and a customizable ordering system.
+
+---
+
+## 🌱 Fun Facts
+
+- 🌍 Currently based in **Phoenix, Arizona, USA**, but originally from Thailand 🇹🇭. I move around frequently—you might catch me in **Florianopolis, Brazil** next!
+- 🗣️ Multilingual: I speak **Thai**, **English**, **Japanese**, **Polish**, **Spanish**, and **Chinese**.
+- 📚 On a journey to master **Japanese**, **Chinese**, and **Spanish** fluently.
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/peeranat-somboonsirikul](https://www.linkedin.com/in/peeranat-somboonsirikul-84b69a209/))
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=dev.to&logoColor=white)](https://tonypeeranat.vercel.app)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessyraffaello@gmail.com)
+  
+</div>
+
+Thanks for stopping by! 😊 Feel free to reach out if you're interested in collaborating, freelancing, or simply talking tech!
